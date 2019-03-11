@@ -1,6 +1,6 @@
 function onDownload() {
     alert('You will be redirected to the download page.')
-    window.open('https://mega.nz/#!SColGA6Q!rIZReM-XSJEG2-PjbY915lrsfBSGL0HfMMYBtWn5Lvg')
+    window.open('https://mega.nz/#!SCRlzajY!1mKfktEq7NbmmAg1HaWZ55Q3yMGN1Pxv5eRop0vCy4M')
 }
 
 for (let i = 0; i < 666; i++) {
